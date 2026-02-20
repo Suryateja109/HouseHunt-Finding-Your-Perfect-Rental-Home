@@ -1,5 +1,19 @@
 # 🏠 HouseHunt | Full-Stack Rental Marketplace
 
+Team ID: LTVIP2026TMIDS34731
+
+Team Size: 5
+
+Team Leader: Manikya Reddy
+
+Team Member: Nandipati Sudheer
+
+Team Member: Chedurthipati Surya Teja
+
+Team Member: Bhagyasri Muddaka
+
+Team Member: Neelapu Sudheer
+
 **HouseHunt** is a modern MERN stack application designed to simplify the process of finding and listing rental properties. This platform bridges the gap between property owners, agents, and home seekers by providing a secure, filtered, and user-friendly environment to discover the perfect home.
 
 ---
